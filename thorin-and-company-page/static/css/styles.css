@@ -1,0 +1,5 @@
+/* Target all the img tags that are children to col-md-5 */
+
+.col-md-5 img {
+    width: 100%;
+} 
